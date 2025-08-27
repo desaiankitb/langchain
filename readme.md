@@ -7,3 +7,6 @@
 7. `uv add openai==0.28`
 8. `uv add langchain`
 9. `uv add langchain-community`
+10. `uv add tiktoken`
+11. `uv add pandas`
+12. `uv add docarray`
