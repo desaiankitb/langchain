@@ -10,3 +10,4 @@
 10. `uv add tiktoken`
 11. `uv add pandas`
 12. `uv add docarray`
+13. `uv add langchain-google-genai`
