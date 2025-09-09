@@ -11,3 +11,7 @@
 11. `uv add pandas`
 12. `uv add docarray`
 13. `uv add langchain-google-genai`
+14. `uv add wikipedia`
+15. `uv add langchain-experimental`
+16. `uv add numexpr`
+17. `uv add DateTime`
